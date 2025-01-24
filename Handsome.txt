@@ -1,2 +1,6 @@
 This file is create in master branch, on 24/1/25 at 10.33am
+<<<<<<< HEAD
 This line is added in main branch, Handsome is Smart, on 24/1/25 at 10.53am
+=======
+This line is added in pretty branch. Pretty finds Handsome handsome, on 10.46am
+>>>>>>> pretty
